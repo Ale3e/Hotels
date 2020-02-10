@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Folly/folly/Optional.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Folly/folly/Portability.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Folly/folly/CPortability.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Folly/folly/Traits.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Folly/folly/Utility.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/alessandrocarughi/Desktop/Lastminute.com/Hotels/ios/Pods/Folly/folly/CppAttributes.h
