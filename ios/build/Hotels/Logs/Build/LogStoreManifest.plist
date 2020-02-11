@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>A144A2AA-5997-4D1E-95ED-C54D83E1B6F0</key>
+		<key>594F2C3D-EBEA-4BA2-8639-3870D31C0FA9</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,13 +15,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>A144A2AA-5997-4D1E-95ED-C54D83E1B6F0.xcactivitylog</string>
+			<string>594F2C3D-EBEA-4BA2-8639-3870D31C0FA9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>W</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Hotels project</string>
@@ -32,13 +32,47 @@
 			<key>signature</key>
 			<string>Building workspace Hotels with scheme Hotels and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>603038703.08024204</real>
+			<real>603051975.34241104</real>
 			<key>timeStoppedRecording</key>
-			<real>603038707.75313103</real>
+			<real>603051988.25911403</real>
 			<key>title</key>
 			<string>Building workspace Hotels with scheme Hotels and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>A144A2AA-5997-4D1E-95ED-C54D83E1B6F0</string>
+			<string>594F2C3D-EBEA-4BA2-8639-3870D31C0FA9</string>
+		</dict>
+		<key>D8D316CB-C45A-459D-897F-F0AD2813E354</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D8D316CB-C45A-459D-897F-F0AD2813E354.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hotels project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hotels</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Hotels with scheme Hotels and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603103971.09392798</real>
+			<key>timeStoppedRecording</key>
+			<real>603103973.62649202</real>
+			<key>title</key>
+			<string>Building workspace Hotels with scheme Hotels and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D8D316CB-C45A-459D-897F-F0AD2813E354</string>
 		</dict>
 	</dict>
 </dict>

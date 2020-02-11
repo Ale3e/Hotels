@@ -4,12 +4,10 @@ import {
   Text,
   View,
   FlatList,
-  StyleSheet,
+  StyleSheet
 } from 'react-native';
 
-import MapView from 'react-native-maps';
-
-import { Marker } from 'react-native-maps';
+import MapView, { Marker } from 'react-native-maps';
 
 import {
   displayStars

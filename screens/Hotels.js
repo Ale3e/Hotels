@@ -269,7 +269,7 @@ export default class Hotels extends Component {
                         })
                       }}
                       isChecked={this.state.isCheckedNormal}
-                      leftText={"Normal (user rating < 7)"}
+                      leftText={"Normal (< 7)"}
                     />
                     <CheckBox
                       style={styles.checkBox}
@@ -280,7 +280,7 @@ export default class Hotels extends Component {
                         })
                       }}
                       isChecked={this.state.isCheckedGood}
-                      leftText={"Good (user rating >= 7 and < 8.5)"}
+                      leftText={"Good (>= 7 and < 8.5)"}
                     />
                     <CheckBox
                       style={styles.checkBox}
@@ -291,7 +291,7 @@ export default class Hotels extends Component {
                         })
                       }}
                       isChecked={this.state.isCheckedExcellent}
-                      leftText={"Excellent (user rating >= 8.5)"}
+                      leftText={"Excellent (>= 8.5)"}
                     />
                 </View>
                 <View style={styles.filterRow}>
