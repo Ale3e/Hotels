@@ -14,6 +14,7 @@ import { createStackNavigator } from 'react-navigation-stack';
 import HotelsScreen from './screens/Hotels';
 import HotelDetailsScreen from './screens/HotelDetails';
 
+//Create the navigation tab on the top of the screen
 const HotelStack = createStackNavigator(
     {
       Hotels: {

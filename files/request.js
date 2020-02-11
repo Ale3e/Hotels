@@ -6,6 +6,7 @@ import {
 
 import FastImage from 'react-native-fast-image';
 
+//Get the hotels from the JSON
 export function	getHotel() {
     return (
         fetch("https://services.lastminute.com/mobile/stubs/hotels")
@@ -19,6 +20,7 @@ export function	getHotel() {
     )
 };
 
+//Display a series of stars in a row
 export function displayStars(stars) {
     let starsComponents = [];
     for (i = 0; i < stars; i++) {

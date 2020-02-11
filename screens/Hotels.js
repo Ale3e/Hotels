@@ -165,7 +165,7 @@ export default class Hotels extends Component {
       filtersName: '',
     })
   }
-
+  //Return all the code of the modal
   genModal () {
     return (
       <View>
@@ -342,7 +342,7 @@ export default class Hotels extends Component {
       </View>
     );
   }
-
+  //Return the result of the hotel if exists, else return the 'error' hotel
   hotelsResult(){
     if (this.state.filtratedHotels.length > 0){
       return (
