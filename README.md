@@ -27,4 +27,8 @@ Once do this step, write this instruction in the project folder:
 
 ```react-native run-android```
 
+To test the App for Android the API_KEY of Google Maps is needed, you have to insert it into the *AndroidManifest.xml* located: *android/app/src/main/AndroidManifest.xml*
+
 The App is developed for iOS device, but I tested it also on an Android Device.
+
+
