@@ -7,7 +7,7 @@ react-native-screens, react-native-gesture-handler, react-native-image-slider-bo
 
 To start the project from the simulator you have to install all the module in the project folder:
 ```
-npm install && npm intsall --save react-navigation && npm intsall --save react-navigation-stack && npm intsall --save @react-native-community/masked-view && npm intsall react-native-safe-area-context && npm intsall --save react-native-screens && npm intsall --save react-native-gesture-handler && npm intsall --save react-native-image-slider-box && npm intsall --save react-native-fast-image && npm intsall --save react-native-maps && npm intsall --save @react-native-community/async-storage && npm intsall --save react-native-check-box
+npm install && npm intsall --save react-navigation && npm install --save react-navigation-stack && npm install --save @react-native-community/masked-view && npm install react-native-safe-area-context && npm install --save react-native-screens && npm install --save react-native-gesture-handler && npm install --save react-native-image-slider-box && npm install --save react-native-fast-image && npm install --save react-native-maps && npm install --save @react-native-community/async-storage && npm install --save react-native-check-box
 ```
 
 Intall the iOS pod:
